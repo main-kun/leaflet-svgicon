@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-svgicon",
+  "version": "1.0.0",
+  "description": "L.DivIcon.SVGIcon is a simple and customizable SVG marker icon with no external library or file dependencies. By default, 1 emoji, 2 characters of text or about 3 numerals can fit inside the icon's inner circle.",
+  "main": "svg-icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/main-kun/leaflet-svgicon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/main-kun/leaflet-svgicon/issues"
+  },
+  "homepage": "https://github.com/main-kun/leaflet-svgicon#readme"
+}
